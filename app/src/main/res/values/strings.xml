@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test App</string>
+    <string name="activity_album_view_get_pic">Get Pic</string>
+    <string name="title_activity_view_photos">ViewPhotosActivity</string>
+</resources>
